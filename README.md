@@ -123,31 +123,9 @@ This is a lightweight, educational port scanner built with Python's standard lib
 > **📸 Place your GUI screenshot here:**
 > 
 > ```
-![GUI Screenshot]([a362fb76-5a8d-42d7-9454-9aef02706346.jpg])
+![GUI Screenshot]([gui-screenshot.png])
 > ```
 
-### CLI Usage Example
-
-```
-$ python port_scanner.py 192.168.1.1 1 1000 --threads 50
-
-Scanning 192.168.1.1 (192.168.1.1) from port 1 to 1000...
-
-Open ports found:
-Port 22: SSH
-Port 80: HTTP
-Port 443: HTTPS
-Port 3306: MySQL
-Port 8080: HTTP-Proxy
-
-Scan complete. Total ports scanned: 1000
-```
-
-> **📸 Place your CLI screenshot here:**
-> 
-> ```
-> /images/cli-screenshot.png
-> ```
 
 ---
 
