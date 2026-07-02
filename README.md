@@ -122,9 +122,8 @@ This is a lightweight, educational port scanner built with Python's standard lib
 
 > **📸 Place your GUI screenshot here:**
 > 
-> ```
-![GUI Screenshot]([gui-screenshot.png])
-> ```
+![GUI Screenshot]([/gui-screenshot.png])
+
 
 
 ---
