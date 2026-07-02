@@ -119,9 +119,7 @@ This is a lightweight, educational port scanner built with Python's standard lib
 │    permission to scan.                                        │
 └────────────────────────────────────────────────────────────────┘
 ```
-
-> **📸 Place your GUI screenshot here:**
-> 
+ 
 ![GUI Screenshot]([/gui-screenshot.png])
 
 
