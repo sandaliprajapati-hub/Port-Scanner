@@ -123,7 +123,7 @@ This is a lightweight, educational port scanner built with Python's standard lib
 > **📸 Place your GUI screenshot here:**
 > 
 > ```
-> [/images/gui-screenshot.png](https://github.com/sandaliprajapati-hub/Port-Scanner/blob/main/a362fb76-5a8d-42d7-9454-9aef02706346.jpg)
+![GUI Screenshot]([https://github.com/sandaliprajapati-hub/Port-Scanner/blob/main/a362fb76-5a8d-42d7-9454-9aef02706346.jpg])
 > ```
 
 ### CLI Usage Example
